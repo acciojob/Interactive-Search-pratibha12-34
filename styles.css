@@ -2,11 +2,13 @@
 .search{
 	display:flex;
 	align-items:center;
-	
+	background-color:lightblue;
+	height:30%;
+	width:30%;
 	
 }
 .search:active{
 	background-color:lightblue;
-	height:30%;
-	width:30%;
+	height:10%;
+	width:10%;
 }
