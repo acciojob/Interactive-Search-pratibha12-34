@@ -1,7 +1,7 @@
 //your JS code here. If required.
-let btn=document.getElementByClass(".btn");
-let div=document.getElementByClass(".search");
-let input=document.getElementByClass(".input");
+let btn=document.querySelector(".btn");
+let div=document.querySelector(".search");
+let input=document.querySelector(".input");
 btn.addEventListener("click",()=>{
 	div.classList("active");
 	// input.focus();
