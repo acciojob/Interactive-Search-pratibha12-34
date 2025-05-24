@@ -4,7 +4,7 @@ let div=document.getElementByClass(".search");
 let input=document.getElementByClass(".input");
 btn.addEventListener("click",()=>{
 	div.classList("active");
-	input.focus();
+	// input.focus();
 	
 }
 )
