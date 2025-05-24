@@ -3,7 +3,7 @@ let btn=document.querySelector(".btn");
 let div=document.querySelector(".search");
 let input=document.querySelector(".input");
 btn.addEventListener("click",()=>{
-	div.classList("active");
+	div.classList.add("active");
 	// input.focus();
 	
 }
