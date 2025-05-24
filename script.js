@@ -4,7 +4,7 @@ let div=document.querySelector(".search");
 let input=document.querySelector(".input");
 btn.addEventListener("click",()=>{
 	div.classList.add("active");
-	// input.focus();
+	div.querySelector(".input").focus();
 	
 }
 )
