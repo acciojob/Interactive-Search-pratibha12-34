@@ -7,6 +7,6 @@
 }
 .search:active{
 	background-color:lightblue;
-	height="30%"
-	width="30%"
+	height:30%;
+	width:30%;
 }
